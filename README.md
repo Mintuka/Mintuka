@@ -20,7 +20,7 @@
   <img align="left" alt="Mintesnot Alemayehu Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 
-<a href="https://dev.to/mintesnotalemayehu">
+<a href="https://dev.to/mintuka">
   <img align="left" alt="Mintesnot Alemayehu DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
 </a>
 <a href="#">
