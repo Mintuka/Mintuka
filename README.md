@@ -2,7 +2,7 @@
 [instagram]: https://www.instagram.com/__nathaniel__awel/
 [linkedin]: https://www.linkedin.com/in/mintesnot-alemayehu-6528a5156/
 
-### Hi there, I'm Mintesnot - alemayehu [website] 👋
+### Hi there, I'm Mintesnot - aka [Minte] [website] 👋
 
 [![Website](https://img.shields.io/website?label=mintesnot-alemayehu.vercel.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mintesnot-alemayehu.vercel.app/)
 
@@ -71,5 +71,3 @@
 
 <br />
 <br />
-  
-<b>🔥 Github Streaks</b>
