@@ -17,14 +17,14 @@
 <div style="display: flex; align-items: center; gap: 0 10px;">
 
 <a href="https://linkedin.com/in/mintesnot-alemayehu-6528a5156/">
-  <img align="left" alt="Mintesnot Alemayehu Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  <img align="left" alt="Mintesnot Kassa LinkedIn" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 
 <a href="https://dev.to/mintuka">
-  <img align="left" alt="Mintesnot Alemayehu DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
+  <img align="left" alt="Mintesnot Kassa DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Mintesnot Alemayehu Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
+  <img align="left" alt="Mintesnot Kassa Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
 </a>
 
 
