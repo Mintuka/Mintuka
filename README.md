@@ -7,10 +7,10 @@
 
 ## I'm a Full-Stack Engineer!!
 
-- 🌱 I’m currently learning advanced React 🤣
+- 🌱 Research Assistant at Fordham University. Working on Multi Agent Teaching Assistant 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play soccer and watching movie
+- 🥅 2025 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play soccer and watch movies
 
 ### Connect with me :smiley:
 
