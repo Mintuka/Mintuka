@@ -2,8 +2,8 @@
 [instagram]: https://www.instagram.com/__minte__/
 [linkedin]: https://www.linkedin.com/in/minte-kassa/
 
-### Hi there, I'm Mintesnot Kassa 👋 [portfolio]
-![Website](https://mintuka.github.io/)
+### Hi there, I'm Mintesnot Kassa 👋
+![Portfolio](https://mintuka.github.io/)
 
 ## I'm a Full-Stack Engineer!!
 
@@ -47,7 +47,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
-<img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="26px" alt="Google Cloud">
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -58,8 +58,7 @@
 
 <table align="center">
   <tr align="center">
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintuka&layout=compact&theme=gotham"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=mintuka&theme=gotham"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintuka&layout=compact&theme=gotham"/></td
   </tr>
 </table>
 
