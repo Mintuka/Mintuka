@@ -9,7 +9,7 @@
 
 - 🌱 Research Assistant at Fordham University.
 - 👯 I’m looking to Full-time SWE roles in the United States
-- ⚡ Fun fact: I love to play soccer and watch movies
+- ⚡ Fun fact: I love to play soccer
 
 ### Connect with me :smiley:
 
