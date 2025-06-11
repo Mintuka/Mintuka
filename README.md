@@ -2,32 +2,34 @@
 [instagram]: https://www.instagram.com/__minte__/
 [linkedin]: https://www.linkedin.com/in/minte-kassa/
 
-### Hi there, I'm Mintesnot Kassa 👋
-[Portfolio](https://mintuka.github.io/)
+<div style="display: flex; align-items: center; gap: 0 10px;">
+  <div>
+    <h1>Hi there, I'm Mintesnot Kassa 👋</h1>
+  [Portfolio](https://mintuka.github.io/)
+  </div>
+  <div>
+    <h1>Connect with me :smiley:</h1>
+      
+    <div style="display: flex; align-items: center; gap: 0 10px;">
+        
+        <a href="https://linkedin.com/in/minte-kassa/">
+          <img align="left" alt="Mintesnot Kassa LinkedIn" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+        </a>
+        
+        <a href="https://www.instagram.com/__minte__">
+          <img align="left" alt="Mintesnot Kassa Instagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
+        </a>
+        <a href="https://t.me/minte_ak">
+          <img align="left" alt="Mintesnot Kassa Telegram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/telegram.svg" />
+    </div>
+  </div>   
+</div>
 
 ## I'm a Full-Stack Engineer!!
 
 - 🌱 Research Assistant at Fordham University.
 - 👯 I’m looking to Full-time SWE roles in the United States
 - ⚡ Fun fact: I love to play soccer
-
-### Connect with me :smiley:
-
-<div style="display: flex; align-items: center; gap: 0 10px;">
-
-<a href="https://linkedin.com/in/minte-kassa/">
-  <img align="left" alt="Mintesnot Kassa LinkedIn" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-</a>
-
-<a href="https://www.instagram.com/__minte__">
-  <img align="left" alt="Mintesnot Kassa Instagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
-</a>
-<a href="https://t.me/minte_ak">
-  <img align="left" alt="Mintesnot Kassa Telegram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/telegram.svg" />
-</a>
-
-
-</div>
 
 <br/><br/>
 
